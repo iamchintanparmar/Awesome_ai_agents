@@ -3,6 +3,14 @@
 
 This Streamlit app empowers you to research top stories and users on HackerNews using a team of AI assistants with GPT-4o.
 
+
+Created and developed by **[Chintan Parmar](https://github.com/iamchintanparmar)**.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI-Agents-8b6bff)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+
 ### Features
 - Research top stories and users on HackerNews
 - Utilize a team of AI assistants specialized in story and user research
@@ -12,7 +20,7 @@ This Streamlit app empowers you to research top stories and users on HackerNews 
 
 1. Clone the repository
 ```bash
-git clone https://github.com/coboat/Awesome-automation-tools.git
+git clone https://github.com/iamchintanparmar/Awesome_ai_agents.git
 cd Awesome_ai_agents/multi_agent_apps/multi_agent_researcher
 ```
 
@@ -43,3 +51,15 @@ streamlit run research_agent.py
     3. Leverages the Web Searcher to gather additional context and information
     4. Finally provides a thoughtful and engaging summary with title, summary, and reference links
 - The generated content is structured as an Article with a title, summary, and reference links for easy review and use.
+
+## Author
+
+**Chintan Parmar** — Full-Stack Developer & Creative Technologist
+
+- GitHub: [@iamchintanparmar](https://github.com/iamchintanparmar)
+- Portfolio: [iamchintanparmar.github.io](https://iamchintanparmar.github.io)
+
+## License
+
+MIT
+
