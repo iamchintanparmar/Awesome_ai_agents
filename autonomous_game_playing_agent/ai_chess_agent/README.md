@@ -3,6 +3,14 @@
 
 An AI chess game where two agents play against each other using Autogen in a Streamlit app. Built with move validation and game state management.
 
+
+Created and developed by **[Chintan Parmar](https://github.com/iamchintanparmar)**.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI-Agents-8b6bff)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+
 ## Features
 
 ### Multi-Agent Architecture
@@ -26,7 +34,7 @@ An AI chess game where two agents play against each other using Autogen in a Str
 
 1. Clone the repository
 ```bash
-git clone https://github.com/coboat/Awesome-automation-tools.git
+git clone https://github.com/iamchintanparmar/Awesome_ai_agents.git
 cd Awesome_ai_agents/autonomous_game_playing_agent/ai_chess_agent
 ```
 
@@ -42,3 +50,14 @@ pip install -r requirements.txt
 ```bash
 streamlit run ai_chess_agent.py
 ```
+
+## Author
+
+**Chintan Parmar** — Full-Stack Developer & Creative Technologist
+
+- GitHub: [@iamchintanparmar](https://github.com/iamchintanparmar)
+- Portfolio: [iamchintanparmar.github.io](https://iamchintanparmar.github.io)
+
+## License
+
+MIT
