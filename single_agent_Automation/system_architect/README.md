@@ -2,6 +2,13 @@
 
 An Agno agentic system that provides expert software architecture analysis and recommendations using a dual-model approach combining DeepSeek R1's Reasoning and Claude. The system provides detailed technical analysis, implementation roadmaps, and architectural decisions for complex software systems.
 
+Created and developed by **[Chintan Parmar](https://github.com/iamchintanparmar)**.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI-Agents-8b6bff)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+
 ## Features
 
 - **Dual AI Model Architecture**
@@ -28,7 +35,7 @@ An Agno agentic system that provides expert software architecture analysis and r
 1. **Setup Environment**
    ```bash
    # Clone the repository
-   git clone https://github.com/coboat/Awesome-automation-tools.git
+   git clone https://github.com/iamchintanparmar/Awesome-automation-tools.git
    cd Awesome_ai_agents/single_agent_Automation/system_architect
 
    # Install dependencies
@@ -69,3 +76,15 @@ An Agno agentic system that provides expert software architecture analysis and r
 - Supports chat-based interaction
 - Includes clear reasoning for all architectural decisions
 - API usage costs apply
+
+
+## Author
+
+**Chintan Parmar** — Full-Stack Developer & Creative Technologist
+
+- GitHub: [@iamchintanparmar](https://github.com/iamchintanparmar)
+- Portfolio: [iamchintanparmar.github.io](https://iamchintanparmar.github.io)
+
+## License
+
+MIT
